@@ -1,4 +1,6 @@
-# StarCraftImage Dataset (Forked)
+# StarCraftImage Dataset
+
+**NOTE:** This is a fork of the original Repo [here](https://github.com/inouye-lab/starcraftimage).
 
 Welcome! This is the repository for the StarCraftImage dataset from the paper: [StarCraftImage: A Dataset For Prototyping Spatial Reasoning Methods For Multi-Agent Environments](https://openaccess.thecvf.com/content/CVPR2023/html/Kulinski_StarCraftImage_A_Dataset_for_Prototyping_Spatial_Reasoning_Methods_for_Multi-Agent_CVPR_2023_paper.html)
 
